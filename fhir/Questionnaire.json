@@ -1,0 +1,19 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "questionnaire-123",
+  "title": "BMI calculation",
+  "status": "active",
+  "date": "15-03-2020",
+  "item": [
+    {
+      "linkId": "1",
+      "text": "Height (cm)",
+      "type": "decimal"
+    },
+    {
+      "linkId": "2",
+      "text": "Weight (kg)",
+      "type": "decimal"
+    }
+  ]
+}
